@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="BF_BUN.png" width="1191" height="746">
+  <SubTexture name="BF_BUN sing UP0001" x="0" y="0"  width="145.20000000000002" height="190" frameX="-1.6" frameY="-0.4" frameWidth="147.20000000000002" frameHeight="190.8"/>
+  <SubTexture name="BF_BUN sing UP0002" x="0" y="190"  width="145.20000000000002" height="186.8" frameX="-0.4" frameY="-0.4" frameWidth="146" frameHeight="187.20000000000002"/>
+  <SubTexture name="BF_BUN sing UP0003" x="0" y="376.8"  width="145.20000000000002" height="185.20000000000002" frameX="-0.4" frameY="-0" frameWidth="146" frameHeight="185.60000000000002"/>
+  <SubTexture name="BF_BUN sing UP0004" x="0" y="562"  width="145.20000000000002" height="184.4" frameX="-1.6" frameY="-0.4" frameWidth="147.20000000000002" frameHeight="185.20000000000002"/>
+  <SubTexture name="BF BUNNY IDLE0001" x="145.20000000000002" y="0"  width="173.20000000000002" height="174.8" frameX="-1.2000000000000002" frameY="-0" frameWidth="174.8" frameHeight="175.20000000000002"/>
+  <SubTexture name="BF BUNNY IDLE0003" x="145.20000000000002" y="174.8"  width="172.8" height="174.4" frameX="-0.4" frameY="-0.4" frameWidth="173.60000000000002" frameHeight="175.20000000000002"/>
+  <SubTexture name="BF BUNNY IDLE0004" x="145.20000000000002" y="349.20000000000005"  width="173.60000000000002" height="174" frameX="-0" frameY="-0" frameWidth="174" frameHeight="174"/>
+  <SubTexture name="BF BUNNY LEFT0001" x="318" y="174.8"  width="166.8" height="173.20000000000002" frameX="-3.2" frameY="-0" frameWidth="170.8" frameHeight="173.60000000000002"/>
+  <SubTexture name="BF BUNNY LEFT0002" x="318.40000000000003" y="0"  width="167.20000000000002" height="172.8" frameX="-0" frameY="-0" frameWidth="167.60000000000002" frameHeight="173.20000000000002"/>
+  <SubTexture name="BF BUNNY LEFT0003" x="484.8" y="172.8"  width="168" height="172.4" frameX="-0.8" frameY="-0" frameWidth="169.20000000000002" frameHeight="172.4"/>
+  <SubTexture name="BF BUNNY LEFT0004" x="485.6" y="0"  width="168" height="172.4" frameX="-0.4" frameY="-0.4" frameWidth="168.4" frameHeight="172.8"/>
+  <SubTexture name="BF BUNNY RIGHT0002" x="145.20000000000002" y="523.2"  width="174.4" height="165.20000000000002" frameX="-0" frameY="-0" frameWidth="174.4" frameHeight="165.60000000000002"/>
+  <SubTexture name="BF BUNNY RIGHT0003" x="318.8" y="348"  width="174.4" height="165.20000000000002" frameX="-0.8" frameY="-0" frameWidth="175.20000000000002" frameHeight="165.60000000000002"/>
+  <SubTexture name="BF BUNNY RIGHT0001" x="319.6" y="513.2"  width="174.4" height="164.8" frameX="-0" frameY="-0" frameWidth="174.8" frameHeight="165.20000000000002"/>
+  <SubTexture name="BF BUNNY IDLE0005" x="493.20000000000005" y="345.20000000000005"  width="174.4" height="164.4" frameX="-0.4" frameY="-0.4" frameWidth="175.20000000000002" frameHeight="165.20000000000002"/>
+  <SubTexture name="BF BUNNY IDLE0006" x="652.8000000000001" y="172.4"  width="174.4" height="164.4" frameX="-0.4" frameY="-0" frameWidth="175.20000000000002" frameHeight="164.8"/>
+  <SubTexture name="BF BUNNY DOWN0003" x="667.6" y="0"  width="174.4" height="152" frameX="-0.4" frameY="-0" frameWidth="175.20000000000002" frameHeight="152.8"/>
+  <SubTexture name="BF BUNNY DOWN0004" x="842" y="0"  width="174.4" height="152" frameX="-0.8" frameY="-0" frameWidth="175.20000000000002" frameHeight="152.8"/>
+  <SubTexture name="BF BUNNY DOWN0001" x="1016.4000000000001" y="0"  width="174.4" height="149.6" frameX="-0.4" frameY="-0" frameWidth="174.8" frameHeight="150"/>
+  <SubTexture name="BF BUNNY DOWN0002" x="1016.4000000000001" y="149.6"  width="174.4" height="148.8" frameX="-0.8" frameY="-0" frameWidth="175.20000000000002" frameHeight="148.8"/>
+  <SubTexture name="BF BUNNY IDLE0002" x="145.20000000000002" y="0"  width="173.20000000000002" height="174.8" frameX="-1.2000000000000002" frameY="-0" frameWidth="174.8" frameHeight="175.20000000000002"/>
+</TextureAtlas>
